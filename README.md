@@ -1,19 +1,19 @@
-# 🚀 My AI & ML Journey
+#  My AI & ML Journey
 
-## 👨‍💻 About Me
+##  About Me
 - Final year IS student
 - Passionate about AI, ML, Data Science & IoT
 - Goal: AI Engineer & Data Scientist in Saudi Arabia 🇸🇦
 
-## 📚 Learning Roadmap
+##  Learning Roadmap
 - [ ] Python & Data Analysis
 - [ ] Machine Learning
 - [ ] Deep Learning & AI
 - [ ] Model Deployment
 - [ ] Cloud (AWS/Azure)
 
-## 🛠️ Skills
+##  Skills
 - Python | IoT | Machine Learning | AI
 
-## 📫 Connect with me
-- LinkedIn: (هتحط لينكك هنا)
+##  Connect with me
+- LinkedIn: (www.linkedin.com/in/omar-sayed-6a6906345)
